@@ -78,5 +78,8 @@ Criar um esqueleto de um algoritmo na superclasse e deixa as subclasses sobrescr
 #####
 Define uma nova operação para uma classe sem alterá-la.
 
+## 
+O projeto contém todos os exemplos design patters mencionados. 
+
 
 
